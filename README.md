@@ -79,9 +79,10 @@
 <div align="center">
 
 ![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalRatnaTamrakar&count_private=true&show_icons=true&theme=radical)          
-![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujalRatnaTamrakar&theme=radical)               
+
+![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujalRatnaTamrakar&theme=radical)      
+         
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRatnaTamrakar&langs_count=8&theme=radical&layout=compact)
-![Github Stars](https://github-readme-stats.vercel.app/api?username=SujalRatnaTamrakar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical)
 
 </div>
 
@@ -102,7 +103,7 @@
 ### A random meme for you 😁 :
 </br>
 
-<img align="center" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img width="480px" height="480px" align="center" src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 Credit: [Giphy](https://giphy.com/ "Giphy") , [Awesome Curated List of Github Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme "Awesome Curated List of Github Profiles")
