@@ -78,8 +78,7 @@
 
 <div align="center">
 
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalRatnaTamrakar&count_private=true&show_icons=true&theme=radical)
-![Sujal's github stats](https://github-readme-stats.vercel.app/api?username=SujalRatnaTamrakar&show_icons=true&theme=radical)             
+![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalRatnaTamrakar&count_private=true&show_icons=true&theme=radical)          
 ![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujalRatnaTamrakar&theme=radical)               
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRatnaTamrakar&langs_count=8&theme=radical&layout=compact)
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=SujalRatnaTamrakar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical)
