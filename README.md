@@ -74,7 +74,7 @@
 
 </br>
 
-![Sujal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=redical&hide_border=true&area=true)
+![Sujal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SujalRatnaTamrakar&theme=redical&hide_border=true&area=true)
 
 <div align="center">
 
